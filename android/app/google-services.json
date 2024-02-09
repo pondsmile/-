@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "411536419708",
+    "firebase_url": "https://flutterfirebase-1a3d3-default-rtdb.firebaseio.com",
+    "project_id": "flutterfirebase-1a3d3",
+    "storage_bucket": "flutterfirebase-1a3d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411536419708:android:89655e4cba5fb33b5592f9",
+        "android_client_info": {
+          "package_name": "com.example.license_plate_recognition_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411536419708-elt81oil3al462aodamnv8ml1lagoaiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzkCc5kIPQ0_U6-joDPI7AA3fjAv9qOE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411536419708-elt81oil3al462aodamnv8ml1lagoaiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
