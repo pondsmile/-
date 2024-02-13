@@ -1,6 +1,6 @@
 # license_plate_recognition_app | แอปพลิเคชั่นแสดงผลการตรวจสอบรถเข้าออกจากป้ายทะเบียน
 
-โปรเจกต์นี้สร้าโดยใช้ Flutter ร่วมกีบฐานข้อมูล Firebase 
+โปรเจกต์นี้สร้างโดยใช้ Flutter ร่วมกับฐานข้อมูล Firebase 
 
 ![image](https://github.com/pondsmile/License_plate_recognition_app/assets/23144335/8d287f87-2fd3-4592-a319-6729567583a4)
 
